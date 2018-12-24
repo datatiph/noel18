@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Nuit insolite @ La Ferme Aventure"
+date: 2017-10-09
+description: 
+image: http://nuitsinsolites.com/images/intro-bg.jpg
+author: Thomas Vaeth
+tags: 
+  - Squid
+  - Moon Drinking
+  - Kale
+---
+
+# [Site web](http://nuitsinsolites.com)
+
+Perché dans les arbres, dans le foin,dans une pyramide de verre ou encore à bord d'un avion mythique ...
+
+![](http://nuitsinsolites.com/images/portfolio/modals/pyramide.jpg)
+
+![](http://nuitsinsolites.com/images/portfolio/modals/unidome.jpg)
+
+![](http://nuitsinsolites.com/images/portfolio/modals/wigwam.jpg)
+
+![](http://nuitsinsolites.com/images/portfolio/modals/caravelle.jpg)
+
+![](http://nuitsinsolites.com/images/portfolio/modals/cube.jpg)
+
+Et 2 entrées au parc [Ferme Aventure](http://www.la-ferme-aventure.fr): la Ferme Aventure à la Chapelle aux Bois vous invite à vivre en famille, au coeur des Vosges, une escapade insolite au fil du 1er parc pieds nus de France ! Entre prairie et forêt, de labyrinthes en sentiers des sensations étonnantes vous attendent. 
