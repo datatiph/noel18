@@ -3,7 +3,7 @@ layout: post
 title: "Zome @ Domaine des planesses"
 date: 2017-10-23
 description: 
-image: /assets/images/zome-5.png
+image: https://github.com/datatiph/noel18/blob/master/assets/images/zome-5.png
 author: Thomas Vaeth
 tags: 
   - Dummy Text
@@ -16,14 +16,14 @@ Lors de votre séjour dans le Zome vous pourrez apprécier le calme et la nature
 
 Vos lits sont prêts à votre arrivée!
 
-![](/assets/images/zome-2.png)
+![](https://github.com/datatiph/noel18/blob/master/assets/images/zome-2.png)
 
 Deux lits doubles y sont installés. Couvertures, oreillers et linge de lit vous sont fournis.
 
 Vous profiterez du canapé, table et fauteuils pour vos repas à l'intérieur.
 A l'extérieur du Zome vous trouverez les toilettes sèches, table et bancs.
 
-![](/assets/images/zome-1.png)
+![](https://github.com/datatiph/noel18/blob/master/assets/images/zome-1.png)
 
 Un "bac" relié de part et d'autre des pontons vous permettra d'être autonome pour rejoindre l'île et le reste du monde en complète autonomie.
 
@@ -31,7 +31,7 @@ Une lampe vous sera fournie mais vos lampes frontales ou autres seront les bienv
 
 Le Zome possède l'électricité et deux prises de courant.
 
-![](/assets/images/zome-3.png)
+![](https://github.com/datatiph/noel18/blob/master/assets/images/zome-3.png)
 
 Si vous choisissez l’option petit déjeuner, il vous sera livré en canoë déposé sur le ponton ou à votre porte en cas de mauvais temps.
 
