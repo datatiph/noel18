@@ -3,7 +3,7 @@ layout: post
 title: "Arche de Noé"
 date: 2017-10-21
 description: 
-image: /assets/images/cabane-0.jpg
+image: https://raw.githubusercontent.com/datatiph/noel18/master/assets/images/cabane-0.jpg
 author: Thomas Vaeth
 tags: 
   - Dummy Text
@@ -13,7 +13,7 @@ tags:
 
 # [Arche de Noé](http://archedenoe.eu)
 
-![](/assets/images/cabane-1.jpg)
+![](https://raw.githubusercontent.com/datatiph/noel18/master/assets/images/cabane-1.jpg)
 
 Nuits insolites dans une cabane, dans les arbres, et dans un cadre champêtre et accueillant, ouvert toute l'année. L'Archedenoé vous propose à 6 m de hauteur, 4 couchages.
 
@@ -25,7 +25,7 @@ Nuits insolites dans une cabane, dans les arbres, et dans un cadre champêtre et
 - Fumer dans le gîte n'est pas autorisé, sauf sur la terrasse.
 
 
-![](/assets/images/cabane-2.jpg)
+![](https://raw.githubusercontent.com/datatiph/noel18/master/assets/images/cabane-2.jpg)
 
 - Tyrolienne pour les enfants.
 - Parking à disposition.
@@ -34,7 +34,7 @@ Nuits insolites dans une cabane, dans les arbres, et dans un cadre champêtre et
 - La taxe de séjour est fixée à 2,53€/nuit/personne adulte à compter du 1er janvier 2019.
 
 
-![](/assets/images/cabane-3.jpg)
+![](https://raw.githubusercontent.com/datatiph/noel18/master/assets/images/cabane-3.jpg)
 
 Ouvert toute l'année.
 
