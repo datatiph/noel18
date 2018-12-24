@@ -3,7 +3,7 @@ layout: post
 title: "?"
 date: 2017-10-20
 description: 
-image: /assets/images/question.png
+image: https://raw.githubusercontent.com/datatiph/noel18/master/assets/images/question.png
 author: Thomas Vaeth
 tags: 
   - Squid
